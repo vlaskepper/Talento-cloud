@@ -7,7 +7,7 @@ var int quantidadePessoas
 var float pesoBruto
 
 
-Inicio
+## Inicio
 
 print(“Digite a quantidade de rodas do veículo”)
 
