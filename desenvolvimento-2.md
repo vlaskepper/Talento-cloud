@@ -1,8 +1,11 @@
 # Desenvolvimento 2
 
 var int quantidadeRodas
+
 var int quantidadePessoas
+
 var float pesoBruto
+
 
 Inicio
 
