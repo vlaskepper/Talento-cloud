@@ -1,36 +1,34 @@
-var int quantidadeRodas 
-var int quantidadePessoas 
-var float pesoBruto 
+# Desenvolvimento 2
 
- 
-Inicio 
+var int quantidadeRodas
+var int quantidadePessoas
+var float pesoBruto
 
+Inicio
 
-print(“Digite a quantidade de rodas do veículo”) 
+print(“Digite a quantidade de rodas do veículo”)
 
-input(quantidadeRodas) 
+input(quantidadeRodas)
 
-print(“Digite o peso do veículo”) 
+print(“Digite o peso do veículo”)
 
-input(pesoBruto) 
+input(pesoBruto)
 
-print(“Digite a quantidade de pessoas”) 
+print(“Digite a quantidade de pessoas”)
 
-input(quantidadePessoas) 
-
- 
+input(quantidadePessoas)
 
 if(quantidadeRodas == 2) or (quantidadeRodas == 3):
-print(“Sua habilitação é A”) 
+print(“Sua habilitação é A”)
 
-elif(quantidadeRodas == 4) and (quantidadePessoas <=8) and (pesoBruto <= 3500): 
+elif(quantidadeRodas == 4) and (quantidadePessoas <=8) and (pesoBruto <= 3500):
 
-print(“Sua habilitação é B”) 
+print(“Sua habilitação é B”)
 
-elif(quantidadeRodas == 4) or (pesoBruto >3500) and (pesoBruto <=6000)  
+elif(quantidadeRodas == 4) or (pesoBruto >3500) and (pesoBruto <=6000)
 
-print(“Sua habilitação é C”) 
+print(“Sua habilitação é C”)
 
-elif((quantidadeRodas >= 4) and (quantidadePessoas >8)) and ((quantidadeRodas >= 4) and (pesoBruto >6000)) 
+elif((quantidadeRodas >= 4) and (quantidadePessoas >8)) and ((quantidadeRodas >= 4) and (pesoBruto >6000))
 
-print(“Sua habilitação é D”) 
+print(“Sua habilitação é D”)
