@@ -1,0 +1,15 @@
+Aqui irei de descrever e justificar o uso de algumas extensões que uso para facilitar a escrita de códigos.
+
+-Auto Rename Tag -> Utilizo para facilitar a acelerar caso necessite alterar o nome de tags no HTML (é também compatível com XML).
+
+-Ayu -> É meramente estetico, entretanto me sinto mais confortável utilizando esse tema, pois ele atribui cores diferentes as valores, propriedades, siglas, etc. Isso acaba permitindo a melhor e mais rápida visualização do código.
+
+-Bookmarks -> Apesar de gostar da "política" de clean code, nem sempre terei/lido com meu próprio código e as marcações me permitem revisitar e identificar com mais facilidade trechos de código, sem a necessidade de comentar o mesmo o mantendo limpo.
+
+-CMake e CMake Tools -> É uma linguagem de suporte "universal" para  Visual Studio Code, que trás diversos atalhos, "complementos rápidos" e kits que podem ser utilizados em inúmeras linguagens e projetos, são duas extensões muito boas.
+
+-IntelliCode e IntelliCode API Usage Example -> É uma inteligência artificial que acelera a escrita de códigos sendo focada em sugestões e multi-opções durante a escrita do código.
+
+-JavaScript (ES6) code snippets -> Uma espécie de Emmet para JavaScript.
+
+-Live Sass Compiler -> Permite a compilação de atualização em tempo real de SASS e SCSS para CSS, com outras funcionalidades como acusar sintaxe errada incluídas.
