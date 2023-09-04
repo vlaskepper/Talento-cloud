@@ -1,0 +1,2 @@
+Foi escolhido por mim fazer print da página do Prime Video, pois a considero um bom exemplo para responder a atividade.
+O uso de carrosséis de imagens, cards e dentre outros costuma-se ser feito atráves da utilização de plugins e/ou JavaScript pelo lado do cliente. Além disso na página também há o uso de animações que seriam inviáveis de serem feitas atráves apenas do CSS, podendo ser identificado mais um uso. E provávelmente poderiam ser identificados mais usos na página.
