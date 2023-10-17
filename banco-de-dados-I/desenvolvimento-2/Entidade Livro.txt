@@ -1,0 +1,7 @@
+Entidade: Livro
+
+Atributos:
+
+Título (atributo simples)
+Autor (atributo composto, composto pelos sub-atributos "Nome" e "Sobrenome")
+Gêneros (atributo multivalorado, pois um livro pode pertencer a mais de um gênero)
